@@ -1,0 +1,6 @@
+[
+  {"id":1, "nombre":"Ana", "edad":25, "correo":"ana@mail.com", "ciudad":"Quito"},
+  {"id":2, "nombre":"Luis", "edad":30, "correo":"luis@mail.com", "ciudad":"Guayaquil"},
+  {"id":3, "nombre":"Maria", "edad":22, "correo":"maria@mail.com", "ciudad":"Quito"},
+  {"id":4, "nombre":"Pedro", "edad":28, "correo":"pedro@mail.com", "ciudad":"Cuenca"}
+]

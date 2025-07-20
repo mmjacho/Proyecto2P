@@ -1,0 +1,14 @@
+### Buscar usuarios por nombre
+GET http://localhost:3000/usuarios?nombre=Ana
+
+### Buscar usuarios por edad
+GET http://localhost:3000/usuarios?edad=30
+
+### Buscar usuarios por ciudad
+GET http://localhost:3000/usuarios?ciudad=Quito
+
+### Buscar usuarios por nombre y ciudad
+GET http://localhost:3000/usuarios?nombre=Maria&ciudad=Quito
+
+### Buscar usuarios por nombre, edad y ciudad
+GET http://localhost:3000/usuarios?nombre=Ana&edad=25&ciudad=Quito
